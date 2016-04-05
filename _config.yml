@@ -2,7 +2,7 @@
 title:       The Operation Hitch Blog
 email:       matt@operationhitch.com
 author:      Matt Collins
-description: "The blog for Operation Hitch helps you plan your big day."
+description: "The blog for Operation Hitch"
 baseurl:     ""
 url:         "http://blog.operationhitch.com"
 date_format: "%b %-d, %Y"
