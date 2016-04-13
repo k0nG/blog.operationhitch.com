@@ -14,7 +14,7 @@ Here are some more details about how Operation Hitch can help with planning your
 ## Plan your budget
 _![Operation Hitch budget screenshot](/images/introducing/operation_hitch_budget_screenshot.jpg)_
 
-Set your budget and then add all those essential items you’re going to spend it on. Each item can track the estimated cost and when you have paid the bill, the actual cost. All the time a running total of your budget and actual money spent is displayed so you can keep a eye on where the money's going.
+Set your budget and then add all those essential items you’re going to spend it on. Each item can track the estimated cost and when you have paid the bill, the actual cost. All the time a running total of your budget and actual money spent is displayed so you can keep an eye on where the money's going.
 
 ## Compare venues
 When searching for the right wedding venue, it can be hard to compare all the potential options. Operation Hitch’s venue comparison tool gives you an overview of all your potential choices and costs.
