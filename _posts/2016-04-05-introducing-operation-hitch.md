@@ -25,7 +25,7 @@ Set your budget and then add items of expense. Each item can track the estimated
 When you’re looking for venues, it can be hard to compare all the potential options. Operation Hitch’s venue comparison tool gives you an overview of all your choices and costs.
 
 ## Prepare your guest list
-Assemble your dream team guest list together! The online list lets you add guests whenever they pop into mind and get lost on a paper note. Create digital invites with your guests' contact details which can be arranged into groups, for example 'Bride's family' or 'Groom's friends'.
+Assemble your dream team guest list together! The online list lets you add guests whenever they pop into mind and not get lost on a paper note. Create digital invites with your guests' contact details which can be arranged into groups, for example 'Bride's family' or 'Groom's friends'.
 
 ## Send a 'save the date' email
 _![Operation Hitch save the date preview screenshot](/images/introducing/operation_hitch_save_the_date_screenshot.jpg)_
