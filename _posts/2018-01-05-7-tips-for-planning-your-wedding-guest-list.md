@@ -3,11 +3,11 @@ layout: post
 title: 7 tips for planning your wedding guest list
 date: 2018-01-05 11:28
 categories: planning
-excerpt: You’ve got engaged, now the reality hits you’ve got a wedding to plan. It can feel like an impossible task, especially when it comes to knowing where to start. First, agree on a rough budget, then start with your guest list. Here are some tips for planning your guest list.
+excerpt: You’ve got engaged, now the reality hits that you’ve got a wedding to plan. It can feel like an impossible task, especially when it comes to knowing where to start. First, agree on a rough budget, then start with your guest list. Here are some tips for planning your guest list.
 promo: guest_list
 ---
 
-You’ve got engaged, now the reality hits you’ve got a wedding to plan. It can feel like an impossible task, especially when it comes to knowing where to start. First, agree on a rough budget, then start with your guest list, it's an essential thing to get right and will help you make other important decisions about your wedding day. It's really simple to use [Operation Hitch](https://operationhitch.com/) to plan your guest list, but here are some extra tips to help you along the way.
+You’ve got engaged, now the reality hits that you’ve got a wedding to plan. It can feel like an impossible task, especially when it comes to knowing where to start. First, agree on a rough budget, then start with your guest list, it's an essential thing to get right and will help you make other important decisions about your wedding day. It's really simple to use [Operation Hitch](https://operationhitch.com/) to plan your guest list, but here are some extra tips to help you along the way.
 
 ## Don’t worry about the politics
 First off, don’t spend time worrying about how certain people might feel if they are invited or not. In general, most people understand that a modern wedding is a costly affair and that you won’t be able to accommodate everyone unless you’ve got an unlimited budget.
