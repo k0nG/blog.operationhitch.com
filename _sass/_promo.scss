@@ -1,0 +1,41 @@
+.promo {
+    background: #69ddc8;
+    padding: 1em;
+    margin: 2em 0;
+
+    h2 {
+        color: #fff;
+        margin-top: 0;
+    }
+
+    p {
+        color: #fff;
+
+        a {
+            color: #fff;
+            text-shadow: none;
+            background-image: none;
+            text-decoration: underline;
+        }
+    }
+
+    .promo-button {
+        display: inline-block;
+        border: 1px solid #fff;
+        color: #fff;
+        padding: 0.5em;
+        text-decoration: none;
+        font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+        font-weight: bold;
+        letter-spacing: 0.8px;
+        text-shadow: none;
+        background-image: none;
+        transition: all 400ms;
+        margin-top: 0.25em;
+    }
+
+    .promo-button:hover {
+        background: #fff;
+        color: #69ddc8;
+    }
+}
