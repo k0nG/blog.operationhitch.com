@@ -3,6 +3,7 @@ layout: post
 title: 7 reasons for sending digital wedding invitations
 date: 2019-02-07 20:48
 categories: planning
+excerpt: Should you consider paper wedding invites? Is it time to throw etiquette out the window on this one, and switch to the ease of managing your correspondence online? A growing number of couples are opting for this digital route, and there’s enough reason for you to consider it, too. Digital invites are efficient, low-cost, and green. And there’s no need to compromise on style, either. Here’s why sending digital wedding invites is an excellent idea, and how to get around any potential downsides.
 promo: e_invites
 ---
 
